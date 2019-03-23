@@ -27,7 +27,7 @@ Para tirar dúvidas, leve para a sala de aula, mande mensagem para a professora 
     * [Começando com o Git](https://github.com/reprograma/Git-Github-e-Responsivo/tree/master/Git%20e%20Github/aula%201#comecando-com-o-git)
     * [Fluxo do git](https://github.com/reprograma/Git-Github-e-Responsivo/tree/master/Git%20e%20Github/aula%201#fluxo-do-git)
     * [Instalando/verificando se o Git está instalado](https://github.com/reprograma/Git-Github-e-Responsivo/tree/master/Git%20e%20Github/aula%201#instalandoverificando-se-o-git-está-instalado)
-    * [Formas de trabalhar com o Git/GitHub](https://github.com/reprograma/Git-Github-e-Responsivo/tree/master/Git%20e%20Github/aula%201(#formas-de-trabalhar-com-o-gitgithub)
+    * [Formas de trabalhar com o Git/GitHub](https://github.com/reprograma/Git-Github-e-Responsivo/tree/master/Git%20e%20Github/aula%201#formas-de-trabalhar-com-o-gitgithub)
     * [Pra não esquecer:](https://github.com/reprograma/Git-Github-e-Responsivo/tree/master/Git%20e%20Github/aula%201#pra-nao-esquecer)
     * [GitHub Pages](https://github.com/reprograma/Git-Github-e-Responsivo/tree/master/Git%20e%20Github/aula%201#github-pages)
     * [Branch](https://github.com/reprograma/Git-Github-e-Responsivo/tree/master/Git%20e%20Github/aula%201#branch)
