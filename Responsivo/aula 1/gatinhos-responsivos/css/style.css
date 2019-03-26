@@ -1,0 +1,35 @@
+/* Header */
+header {
+    margin-top: 0px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Courier New', ourier, monospace;
+    background: url(../img/gato-background.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 180px;  
+    align-items: center;  
+}
+header div {
+    align-items: center;
+    display: flex;
+}
+h1 {
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
+/* Main */
+main {
+    padding: 100px;
+}
+.todos {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.todos div img {
+    width: 250px;
+    height: 150px;   
+}
+/*  */
